@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Anurati';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(https://exponential-workload.github.io/Fonts/Anurati/Anurati.woff2) format('woff2'), url(https://exponential-workload.github.io/Fonts/Anurati/Anurati.woff) format('woff'), url(https://exponential-workload.github.io/Fonts/Anurati/Anurati.otf) format('opentype');
+}
