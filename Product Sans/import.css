@@ -1,23 +1,48 @@
+
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: local('Product Sans'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.woff2) format('woff2'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.woff) format('woff'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.otf) format('opentype'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Regular.ttf) format('opentype');
+  src: local('Product Sans'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.woff2')
+      format('woff2'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.woff')
+      format('woff'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Regular.otf')
+      format('opentype'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Regular.ttf')
+      format('opentype');
 }
 @font-face {
   font-family: 'Product Sans';
   font-style: italic;
   font-weight: 400;
   font-display: swap;
-  src: local('Product Sans Italic'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.woff2) format('woff2'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.woff) format('woff'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.otf) format('opentype'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Italic.ttf) format('opentype');
+  src: local('Product Sans Italic'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.woff2')
+      format('woff2'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.woff')
+      format('woff'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Italic.otf')
+      format('opentype'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Italic.ttf')
+      format('opentype');
 }
 @font-face {
   font-family: 'Product Sans';
   font-style: normal;
   font-weight: 800;
   font-display: swap;
-  src: local('Product Sans Bold'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.woff2) format('woff2'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.woff) format('woff'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.otf) format('opentype'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Bold.ttf) format('opentype');
+  src: local('Product Sans Bold'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.woff2')
+      format('woff2'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.woff')
+      format('woff'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold.otf')
+      format('opentype'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Bold.ttf')
+      format('opentype');
 }
 
 @font-face {
@@ -25,5 +50,13 @@
   font-style: italic;
   font-weight: 800;
   font-display: swap;
-  src: local('Product Sans Bold'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.woff2) format('woff2'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.woff) format('woff'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.otf) format('opentype'), url(https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Bold Italic.ttf) format('opentype');
+  src: local('Product Sans Bold'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.woff2')
+      format('woff2'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.woff')
+      format('woff'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product-Sans-Bold-Italic.otf')
+      format('opentype'),
+    url('https://exponential-workload.github.io/Fonts/Product Sans/Product Sans Bold Italic.ttf')
+      format('opentype');
 }
